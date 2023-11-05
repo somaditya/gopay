@@ -6,7 +6,10 @@ Payments API prototype.
 - gRPC
 - Protocol Buffer
 - GCP:
+  - Compute Engine
   - Spanner
   - Pub/Sub
   - GKE
   - et al
+- CircleCI
+- Spinnaker
